@@ -1,0 +1,30 @@
+html {
+  text-align: center;
+  font-family: 'Bangers', cursive;
+  background-color: darkslategrey;
+}
+
+canvas {
+  font-family: inherit;
+  position: absolute;
+  left: 50%;
+  width: 400px;
+  margin-left: -200px;
+}
+
+button {
+  font-family: inherit;
+  padding: 7px;
+  background-color: rgb(66, 165, 91);
+  font-size: 20px;
+  margin-left: 10pt;
+  width: 60pt;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+#medium {
+  background-color: yellow;
+}
